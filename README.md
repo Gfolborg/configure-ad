@@ -20,10 +20,10 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Create a Client (Windows 10 22H2) and Domain Controller (Windows Server 2022) virtual machines
-- Log on to both VM's and check the connectivity between the 2 VM's
-- On the Domain Controller
-- Step 4
+- Create and configure Client (Windows 10 22H2) and Domain Controller (Windows Server 2022) virtual machines on Azure
+- Install and configure Active Directory
+- Connect Client to Domain Controller
+- Create Users to add to Active Directory
 
 <h2>Deployment and Configuration Steps</h2>
 
