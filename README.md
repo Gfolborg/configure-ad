@@ -167,23 +167,15 @@ Next is to connected the Client-1 to the mydomain network. On the Client-1 virtu
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/l9zu57h.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 </p>
-<img src="https://i.imgur.com/82eT412.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/82eT412.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
-<img src="https://i.imgur.com/DSarQeK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DSarQeK.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 
 </p>
 <p>
 An "About" window will be displayed. Click on Rename this PC (advanced). On the system property window, click Change to change Client-1 domain. I then selected "Domain" and entered "mydomain.com" in the text field and clicked "Ok".
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
 
