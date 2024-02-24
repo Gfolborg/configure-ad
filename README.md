@@ -143,7 +143,7 @@ I then needed to add Jane Doe to the "Domain Admins" by right clicking on the Us
 <br />
 
 <p>
-<img src="https://i.imgur.com/4yGFgdq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/4yGFgdq.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 From there I typed "Domain Admins" in the "Enter the object names to select" field then clicked "Check Names" to link what I typed into the field. Then I clicked "Ok". Jane Doe is now the admin and is able to controll the Active Directory as the admin. So I will log off and sign back on as mydomain\Jane Doe.
@@ -180,7 +180,7 @@ An "About" window will be displayed. Click on Rename this PC (advanced). On the 
 <br />
 
 <p>
-<img src="https://i.imgur.com/WI9r1ES.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/WI9r1ES.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 A Windows Security window popped up and I used the domain controllers admin username mydomain\Jane Doe and password, clicked "Ok". From there the Client-1 virtual machine has been added to the mydomain network. Client-1 will now restart. You can now log into Client-1 virtual machine as mydomain\Jane Doe.
